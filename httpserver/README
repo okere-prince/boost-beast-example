@@ -1,0 +1,5 @@
+1. create external deps in conan
+2. declare conan in principal cmake file
+3. add target link to deps in downstream cmakelist
+4. Install cmake 
+5. Build the whole appli with the new deps
